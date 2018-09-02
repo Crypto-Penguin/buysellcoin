@@ -1,4 +1,18 @@
 
+# About this repository
+
+**This is a personal fork of the [official Buysellcoin repository](https://github.com/buysellcoin/buysellcoin). It aims to fix a few things for my own use: use it at your own risks.**
+
+The changes will be sent to upstream.
+
+Current changes from upstream:
+ - Fix chmod of executable scripts required to build.
+ - Allow comments in `masternodes.conf`
+ - Fix a graphic bug on Dashboard in Darksend panel.
+
+----
+
+
 Buysellcoin development tree
 
 Buysellcoin is a PoS-based cryptocurrency.
